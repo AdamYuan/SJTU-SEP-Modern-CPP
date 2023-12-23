@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="SourceCodePro-Regular.ttf">SourceCodePro-Regular.ttf</file>
+    </qresource>
+</RCC>
